@@ -1,7 +1,8 @@
 # Sistema de Inventario de Equipos TI
 
-## Materia
-Algoritmos y Estructura de Datos
+**Materia:** Algoritmos y Estructura de Datos
+**Profesora:** Ing. Paula Daniela Muñoz Zárate
+**Fecha:** 25 de abril del 2026
 
 ## Descripción
 Este proyecto consiste en el desarrollo de un **Sistema de Inventario de Equipos de Tecnologías de la Información**, el cual permite administrar y visualizar los equipos registrados en una base de datos.
@@ -78,13 +79,7 @@ Lista genérica List<Equipo> para almacenar y manejar los registros obtenidos de
 
 Nombre del Alumno: Brenda Jaqueline Zúñiga Medina
 
-Materia: Algoritmos y Estructuras de Datos
-
-Carrera: Ingeniería en Sistemas de Software
-
-Plantel: UNITEC Campus Cuitláhuac
-
-Cuatrimestre: 6to
+Número de cuenta: 333007889
 
 ---
 
