@@ -1,8 +1,12 @@
 # Sistema de Inventario de Equipos TI
 
 **Materia:** Algoritmos y Estructura de Datos
+
 **Profesora:** Ing. Paula Daniela Muñoz Zárate
+
 **Fecha:** 25 de abril del 2026
+
+---
 
 ## Descripción
 Este proyecto consiste en el desarrollo de un **Sistema de Inventario de Equipos de Tecnologías de la Información**, el cual permite administrar y visualizar los equipos registrados en una base de datos.
