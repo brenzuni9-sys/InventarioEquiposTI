@@ -45,11 +45,11 @@ Permite consultar el inventario existente y agregar nuevos equipos de manera sen
         InventarioTI.sql
 
 3. Verificar la cadena de conexión en el archivo del formulario principal:
- ```
+```
    Server=.\SQLEXPRESS;
    Database=InventarioTI;
    Trusted_Connection=True;
-
+```
 4. Ejecutar el proyecto.
 
 ---
