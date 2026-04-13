@@ -51,16 +51,18 @@ Permite consultar el inventario existente y agregar nuevos equipos de manera sen
 
 4. Ejecutar el proyecto.
 
+```
+
 **Demostración del Sistema**
 
   **Formulario Principal - Inventario**
-  
-    ![Formulario Principal - Inventario](img/form_inventario.png)
+
+![Formulario Principal - Inventario](img/form_inventario.png)
 
   **Formulario Agregar Equipo**
-  
-    ![Formulario Agregar Equipo](img/form_agregar_equipo.png)
-    ![Formulario Agregar Equipo](img/form_agregar_equipo_2.png)
+
+![Formulario Agregar Equipo](img/form_agregar_equipo.png)
+![Formulario Agregar Equipo](img/form_agregar_equipo_2.png)
 
 **Estructuras de Datos Utilizadas**
 
