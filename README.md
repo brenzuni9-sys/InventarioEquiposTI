@@ -35,6 +35,8 @@ Permite consultar el inventario existente y agregar nuevos equipos de manera sen
      ```bash
      git clone https://github.com/brenzuni9-sys/InventarioEquiposTI.git
 
+---
+
 
 1. Abrir el archivo .sln desde la carpeta /src con Visual Studio 2022.
 
@@ -50,6 +52,7 @@ Permite consultar el inventario existente y agregar nuevos equipos de manera sen
 
 4. Ejecutar el proyecto.
 
+---
 
 ## Demostración del Sistema
 
@@ -62,9 +65,13 @@ Permite consultar el inventario existente y agregar nuevos equipos de manera sen
 ![Formulario Agregar Equipo](img/form_agregar_equipo.png)
 ![Formulario Agregar Equipo](img/form_agregar_equipo_2.png)
 
+---
+
 ## Estructuras de Datos Utilizadas
 
 Lista genérica List<Equipo> para almacenar y manejar los registros obtenidos desde la base de datos.
+
+---
 
 ## Integrante
 
@@ -77,6 +84,8 @@ Carrera: Ingeniería en Sistemas de Software
 Plantel: UNITEC Campus Cuitláhuac
 
 Cuatrimestre: 6to
+
+---
 
 ## Conclusiones
 
