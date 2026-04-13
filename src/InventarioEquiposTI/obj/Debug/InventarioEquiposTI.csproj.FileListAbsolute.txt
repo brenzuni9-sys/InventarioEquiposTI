@@ -1,0 +1,11 @@
+C:\Users\enbrendazuni\OneDrive - Enable Global\Documentos\PASAR A ESCUELA PERSONAL\ESTRUCTURA\PROYECTO FINAL\InventarioEquiposTI\obj\Debug\InventarioEquiposTI.csproj.AssemblyReference.cache
+C:\Users\enbrendazuni\OneDrive - Enable Global\Documentos\PASAR A ESCUELA PERSONAL\ESTRUCTURA\PROYECTO FINAL\InventarioEquiposTI\obj\Debug\InventarioEquiposTI.FormInventario.resources
+C:\Users\enbrendazuni\OneDrive - Enable Global\Documentos\PASAR A ESCUELA PERSONAL\ESTRUCTURA\PROYECTO FINAL\InventarioEquiposTI\obj\Debug\InventarioEquiposTI.Properties.Resources.resources
+C:\Users\enbrendazuni\OneDrive - Enable Global\Documentos\PASAR A ESCUELA PERSONAL\ESTRUCTURA\PROYECTO FINAL\InventarioEquiposTI\obj\Debug\InventarioEquiposTI.csproj.GenerateResource.cache
+C:\Users\enbrendazuni\OneDrive - Enable Global\Documentos\PASAR A ESCUELA PERSONAL\ESTRUCTURA\PROYECTO FINAL\InventarioEquiposTI\obj\Debug\InventarioEquiposTI.csproj.CoreCompileInputs.cache
+C:\Users\enbrendazuni\OneDrive - Enable Global\Documentos\PASAR A ESCUELA PERSONAL\ESTRUCTURA\PROYECTO FINAL\InventarioEquiposTI\bin\Debug\InventarioEquiposTI.exe.config
+C:\Users\enbrendazuni\OneDrive - Enable Global\Documentos\PASAR A ESCUELA PERSONAL\ESTRUCTURA\PROYECTO FINAL\InventarioEquiposTI\bin\Debug\InventarioEquiposTI.exe
+C:\Users\enbrendazuni\OneDrive - Enable Global\Documentos\PASAR A ESCUELA PERSONAL\ESTRUCTURA\PROYECTO FINAL\InventarioEquiposTI\bin\Debug\InventarioEquiposTI.pdb
+C:\Users\enbrendazuni\OneDrive - Enable Global\Documentos\PASAR A ESCUELA PERSONAL\ESTRUCTURA\PROYECTO FINAL\InventarioEquiposTI\obj\Debug\InventarioEquiposTI.exe
+C:\Users\enbrendazuni\OneDrive - Enable Global\Documentos\PASAR A ESCUELA PERSONAL\ESTRUCTURA\PROYECTO FINAL\InventarioEquiposTI\obj\Debug\InventarioEquiposTI.pdb
+C:\Users\enbrendazuni\OneDrive - Enable Global\Documentos\PASAR A ESCUELA PERSONAL\ESTRUCTURA\PROYECTO FINAL\InventarioEquiposTI\obj\Debug\InventarioEquiposTI.FormAgregarEquipo.resources
