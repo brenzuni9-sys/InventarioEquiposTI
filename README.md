@@ -62,18 +62,22 @@ Permite consultar el inventario existente y agregar nuevos equipos de manera sen
 ![Formulario Agregar Equipo](img/form_agregar_equipo.png)
 ![Formulario Agregar Equipo](img/form_agregar_equipo_2.png)
 
-**Estructuras de Datos Utilizadas**
+## Estructuras de Datos Utilizadas
 
 Lista genérica List<Equipo> para almacenar y manejar los registros obtenidos desde la base de datos.
 
-**Integrante**
+## Integrante
 
 Nombre del Alumno: Brenda Jaqueline Zúñiga Medina
+
 Materia: Algoritmos y Estructuras de Datos
+
 Carrera: Ingeniería en Sistemas de Software
+
 Plantel: UNITEC Campus Cuitláhuac
+
 Cuatrimestre: 6to
 
-**Conclusiones**
+## Conclusiones
 
 El desarrollo de este sistema permitió aplicar conceptos fundamentales de estructuras de datos, programación orientada a objetos y conexión a bases de datos, integrando una solución funcional y organizada que simula un entorno real de inventario de TI.
