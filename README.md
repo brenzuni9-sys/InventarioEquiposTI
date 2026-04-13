@@ -32,11 +32,11 @@ Permite consultar el inventario existente y agregar nuevos equipos de manera sen
 ## Instalación y Configuración
 
    -Clonar el repositorio:
-     ```bash
+   
+     ```
+     bash
      git clone https://github.com/brenzuni9-sys/InventarioEquiposTI.git
-
----
-
+     ```
 
 1. Abrir el archivo .sln desde la carpeta /src con Visual Studio 2022.
 
@@ -50,6 +50,7 @@ Permite consultar el inventario existente y agregar nuevos equipos de manera sen
    Database=InventarioTI;
    Trusted_Connection=True;
 ```
+
 4. Ejecutar el proyecto.
 
 ---
